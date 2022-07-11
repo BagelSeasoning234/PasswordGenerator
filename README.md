@@ -1,6 +1,6 @@
 # Password Generator
 
-A password generator application written in WPF.
+A password generator application.
 
 ## Features
 
